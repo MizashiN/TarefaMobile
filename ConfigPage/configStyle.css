@@ -73,13 +73,13 @@ footer {
 }
 
 .NavBar-Img {
-    width: 69px;
+    width: auto;
     height: 50px;
     padding-left: 85px;
 }
 
 .NavBar-Img-Engrenagem {
-    width: 69px;
+    width: auto;
     height: 50px;
     margin-left: 85px;
     margin-right: 1px;
