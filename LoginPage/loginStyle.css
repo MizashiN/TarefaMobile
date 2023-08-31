@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.base {
+    width: 326px;
+    height: 810px;
+    border: 2px solid black;
+    padding: 30px;
+}
+
+.quebra1 {
+    width: 320.2px;
+    border-bottom: 1px solid #000000;
+    margin-top: 40px;
+}
+
+
+.display-nome {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+    height: 90px;
+}
+
+.position-nome {
+    margin-top: 10px;
+}
+.nome-app {
+    font-size: 60px;
+}
+
+.S-nome {
+    font-size: 90px;
+}
+
+.quebra2 {
+    width: 270px;
+    border-bottom: 1px solid #000000;
+    margin-left: 24px;
+}
+
+.login {
+    text-align: center;
+    margin-top: 80px;
+}
+
+h2, h3 {
+    font-size: 35px;
+    margin-top: 20px;
+}
+
+.write-box {
+    margin: auto;
+    border: 2px solid #00000090;
+    width: 220px;
+    height: 20px;
+    margin-top: 20px;
+}
+
+.login-button {
+    margin-top: 50px;
+    width: 150px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 40px;
+    font-size: 18px;
+}
+
+.position-text {
+    margin-top: 70px;
+    font-size: 20px;
+}
+
+.text-account {
+    text-align: initial;
+    width: auto;
+    margin-left: 57px;
+}
+
+.quebra3 {
+    width: 320.2px;
+    border-bottom: 1px solid #000000;
+    margin-top: 85px;
+}

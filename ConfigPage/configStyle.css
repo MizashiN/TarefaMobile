@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.base {
+    width: 326px;
+    height: 810px;
+    border: 2px solid black;
+    padding: 30px;
+}
+
+header {
+    text-align: center;
+}
+
+.quebra1 {
+    width: 326px;
+    border-bottom: 1px solid #000000;
+    margin-top: 15px;
+}
+
+.options {
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.quebra2 {
+    width: 326px;
+    border-bottom: 1px solid #000000;
+    margin-top: 25px;
+}
+
+h2 {
+    width: auto;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.quebra3 {
+    width: 326px;
+    border-bottom: 1px solid #000000;
+    margin-top: 15px;
+}
+
+.optionsnotify {
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+
+.quebra4 {
+    width: 320.2px;
+    border-bottom: 1px solid #000000;
+    margin-top: 158px;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 90px 0px 0px;
+}
+
+.NavBar-Img {
+    width: 69px;
+    height: 50px;
+    padding-left: 85px;
+}
+
+.NavBar-Img-Engrenagem {
+    width: 69px;
+    height: 50px;
+    margin-left: 85px;
+    margin-right: 1px;
+}
